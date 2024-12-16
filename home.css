@@ -1,3 +1,13 @@
 .typewriter {
   font-family: Lucida Sans Typewriter, Lucida Console, monaco, Bitstream Vera Sans Mono, monospace;
+  color: #03c300;
+}
+
+a {
+  text-decoration: underline;
+}
+
+body {
+  background-color: rgb(0, 0, 0);
+  font-size: large;
 }
